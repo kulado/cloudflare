@@ -1,5 +1,5 @@
 {
-  "name": "@cloudflare-apps/create-cloudflare-app",
+  "name": "cloudflare",
   "version": "1.0.0",
   "description": "Cloudflare Apps boilerplate featuring DNS powered by Webpack and Babel",
   "scripts": {
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cloudflare-apps/create-cloudflare-app.git"
+    "url": "git+https://github.com/kulado/cloudflare.git"
   },
-  "author": "Cloudflare Inc.",
+  "author": "Kulado Inc.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cloudflare-apps/create-cloudflare-app/issues"
+    "url": "https://github.com/kulado/cloudflare/issues"
   },
-  "homepage": "https://github.com/cloudflare-apps/create-cloudflare-app#readme",
+  "homepage": "https://github.com/kulado/cloudflare#readme",
   "dependencies": {},
   "devDependencies": {
     "babel-core": "^6.26.3",
